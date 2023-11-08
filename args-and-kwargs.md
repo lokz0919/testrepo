@@ -1,6 +1,3 @@
-<base-title :title="frontmatter.title" :description="frontmatter.description">
-Python Args and Kwargs
-</base-title>
 
 ## Args and Kwargs
 
