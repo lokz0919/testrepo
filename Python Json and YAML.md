@@ -1,4 +1,4 @@
-# Python Json and YAML
+# Python JSON and YAML
 
 JSON stands for JavaScript Object Notation and is a lightweight format for storing and transporting data. JSON is often used when data is sent from a server to a web page.
 
