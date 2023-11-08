@@ -1,4 +1,4 @@
-# Python Main function - Python Cheatsheet
+# Python Main Function
 
 It is the name of the scope in which top-level code executes. A module’s name is set equal to main when read from standard input, a script, or from an interactive prompt.
 
