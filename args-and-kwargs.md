@@ -2,17 +2,6 @@
 Python Args and Kwargs
 </base-title>
 
-<base-disclaimer>
-  <base-disclaimer-title>
-    <a href="https://docs.python.org/3/tutorial/index.html">Python args and kwargs Made Easy</a>
-  </base-disclaimer-title>
-  <base-disclaimer-content>
-    <code>*args</code> and <code>**kwargs</code> may seem scary, but the truth is that they are not that difficult to grasp and have the power to grant your functions with lots of flexibility.
-  </base-disclaimer-content>
-</base-disclaimer>
-
-Read the article <router-link to="/blog/python-easy-args-kwargs">Python \*args and \*\*kwargs Made Easy</router-link> for a more in deep introduction.
-
 ## Args and Kwargs
 
 `*args` and `**kwargs` allow you to pass an undefined number of arguments and keywords when calling a function.
