@@ -1,20 +1,6 @@
----
-title: Python Debugging - Python Cheatsheet
-description: In computer programming and software development, debugging is the process of finding and resolving bugs (defects or problems that prevent correct operation) within computer programs, software, or systems.
----
+# Python Debugging
 
-<base-title :title="frontmatter.title" :description="frontmatter.description">
-Python Debugging
-</base-title>
-
-<base-disclaimer>
-  <base-disclaimer-title>
-    <a target="_blank" href="https://en.wikipedia.org/wiki/Debugging">Finding and resolving bugs</a>
-  </base-disclaimer-title>
-  <base-disclaimer-content>
-    In computer programming and software development, debugging is the process of finding and resolving bugs (defects or problems that prevent correct operation) within computer programs, software, or systems.
-  </base-disclaimer-content>
-</base-disclaimer>
+In computer programming and software development, debugging is the process of finding and resolving bugs (defects or problems that prevent correct operation) within computer programs, software, or systems.
 
 ## Raising Exceptions
 
