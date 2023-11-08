@@ -1,11 +1,4 @@
----
-title: Python Decorators - Python Cheatsheet
-description: A Python Decorator is a syntax that provide a concise and reusable way for extending a function or a class.
----
-
-<base-title :title="frontmatter.title" :description="frontmatter.description">
-Python Decorators
-</base-title>
+# Python Decorators
 
 A Python Decorator provides a concise and reusable way for extending a function or a class.
 
