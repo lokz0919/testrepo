@@ -1,23 +1,3 @@
----
-title: Python Basics - Python Cheatsheet
-description: The basics of python. We all need to start somewhere, so how about doing it here.
----
-
-<base-title :title="frontmatter.title" :description="frontmatter.description">
-Python Basics
-</base-title>
-
-We all need to start somewhere, so how about doing it here.
-
-<base-disclaimer>
-  <base-disclaimer-title>
-    From the <a href="https://docs.python.org/3/tutorial/index.html">Python 3 tutorial</a>
-  </base-disclaimer-title>
-  <base-disclaimer-content>
-    Python is an easy to learn, powerful programming language [...] Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development.
-  </base-disclaimer-content>
-</base-disclaimer>
-
 ## Math Operators
 
 From **highest** to **lowest** precedence:
