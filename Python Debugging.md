@@ -39,15 +39,6 @@ Typically, it’s the code that calls the function, not the function itself, tha
 ...     except Exception as err:
 ...         print('An exception happened: ' + str(err))
 ...
-# ****
-# *  *
-# *  *
-# ****
-# OOOOOOOOOOOOOOOOOOOO
-# O                  O
-# O                  O
-# O                  O
-# OOOOOOOOOOOOOOOOOOOO
 # An exception happened: Width must be greater than 2.
 # An exception happened: Symbol must be a single character string.
 ```
