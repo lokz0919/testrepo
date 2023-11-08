@@ -1,4 +1,4 @@
-# Python Regular Expressions - Python Cheatsheet
+# Python Regular Expressions
 
 A regular expression (shortened as regex [...]) is a sequence of characters that specifies a search pattern in text. [...] used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation.
 
